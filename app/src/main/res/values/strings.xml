@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PixabayApp</string>
+    <string name="title_search">Search</string>
+    <string name="text_empty_state">Search result not found!</string>
 </resources>
